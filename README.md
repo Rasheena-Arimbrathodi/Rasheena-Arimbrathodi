@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rasheena-arimbrathodi-3027353a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rasheena-arimbrathodi.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20website-D4AF72?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rasheena-arimbrathodi-30275b3a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rasheena.arimbrathodi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-263B55?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rasheena-Arimbrathodi?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-202838?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
