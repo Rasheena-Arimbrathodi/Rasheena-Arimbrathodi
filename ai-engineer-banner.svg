@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">Rasheena Arimbrathodi — AI Engineer</title>
+  <desc id="desc">Dark navy banner with turquoise and purple network lines, and a headline about building, evaluating, and deploying intelligent systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1427"/>
+      <stop offset="0.63" stop-color="#0b1e33"/>
+      <stop offset="1" stop-color="#17233b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64e4d2"/>
+      <stop offset="1" stop-color="#a4a4ff"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64e4d2" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#64e4d2" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#a4a4ff" stop-opacity=".7"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8ac0d9" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="330" rx="19"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="330" fill="url(#bg)"/>
+    <rect width="1280" height="330" fill="url(#grid)"/>
+    <path d="M0 0h8v330H0z" fill="url(#accent)"/>
+    <path d="M45 52h53" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+    <text x="48" y="81" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="3.8" font-size="14" fill="#83c6d3">AI ENGINEER  /  DATA SCIENTIST</text>
+    <text x="45" y="153" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-.9" font-size="48" fill="#f6f9ff">Rasheena Arimbrathodi</text>
+    <text x="47" y="203" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d3e4f5">Agentic AI  ·  Generative AI  ·  RAG  ·  Applied Research</text>
+    <rect x="46" y="240" width="468" height="48" rx="10" fill="#193248" stroke="#42647c" stroke-width="1"/>
+    <text x="67" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.65" font-size="16" fill="#abf0e6">BUILD</text>
+    <circle cx="146" cy="263" r="3" fill="#587e94"/>
+    <text x="165" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.65" font-size="16" fill="#dae8f7">EVALUATE</text>
+    <circle cx="312" cy="263" r="3" fill="#587e94"/>
+    <text x="330" y="270" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.65" font-size="16" fill="#b6b7ff">DEPLOY</text>
+    <g transform="translate(987 165)">
+      <circle r="122" fill="none" stroke="#9da9f9" stroke-opacity=".16" stroke-width="1"/>
+      <circle r="87" fill="none" stroke="#64e4d2" stroke-opacity=".2" stroke-width="1"/>
+      <circle r="50" fill="none" stroke="#64e4d2" stroke-opacity=".26" stroke-width="1"/>
+      <path d="M-145 -67L-78 -24 0 -91 69 -36 137 -91M-151 72L-68 24 0 92 75 37 142 86M-78 -24L-68 24 0-91 75 37M0 92L69-36 137-91M-68 24L69-36" fill="none" stroke="url(#fade)" stroke-width="2"/>
+      <path d="M-114 -118L-78 -24 -16 -5 69 -36 111 -124M-113 122L-68 24 -16 -5 75 37 115 122" fill="none" stroke="#a4a4ff" stroke-opacity=".4" stroke-width="1.5"/>
+      <circle cx="-78" cy="-24" r="7" fill="#69e6d4"/>
+      <circle cx="-68" cy="24" r="5" fill="#8cbcf1"/>
+      <circle cx="0" cy="-91" r="6" fill="#acb0ff"/>
+      <circle cx="0" cy="92" r="7" fill="#69e6d4"/>
+      <circle cx="69" cy="-36" r="8" fill="#a9adff"/>
+      <circle cx="75" cy="37" r="5" fill="#78e7d7"/>
+      <circle cx="-16" cy="-5" r="15" fill="#112d46" stroke="#7de7dd" stroke-width="2"/>
+      <circle cx="-16" cy="-5" r="5" fill="#96f6ea"/>
+      <circle cx="137" cy="-91" r="4" fill="#a9adff"/>
+      <circle cx="142" cy="86" r="4" fill="#69e6d4"/>
+      <circle cx="-145" cy="-67" r="4" fill="#69e6d4"/>
+      <circle cx="-151" cy="72" r="4" fill="#a9adff"/>
+    </g>
+    <rect x="1245" y="0" width="35" height="330" fill="#0e1a2a" opacity=".2"/>
+  </g>
+</svg>
